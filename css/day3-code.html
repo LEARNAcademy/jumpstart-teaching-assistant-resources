@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Treasure Hunt</title>
+    <link rel="shortcut icon" href="https://cdn2.iconfinder.com/data/icons/valuable-items/200/achievement_chest_coin_gold_money_reward_treasure-512.png">
+    <link rel="stylesheet" href="treasure-day3.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
+  </head>
+
+  <body>
+    <h1 id="top-page">Treasure Hunt Game</h1>
+    <div id="treasure-pic">
+      <img id="treasure-pic" src="./treasure.png" height="200px" alt="treasure box">
+    </div>
+    <hr>
+    <div id="rules-section">
+      <h3>Here are the rules for the game:</h3>
+      <ul>
+        <li>Rule 1: Click on one of the question marks below.</li>
+        <li>Rule 2: If you find the treasure, you win!</li>
+        <li>Rule 3: If you find the bomb, you lose.</li>
+      </ul>
+      <h3>Good Luck!</h3>
+    </div>
+
+    <div id="gameboard">
+      <table>
+        <tr>
+          <td id=0 onclick="treasure(0)">?</td>
+          <td id=1 onclick="treasure(1)">?</td>
+          <td id=2 onclick="treasure(2)">?</td>
+          <td id=3 onclick="treasure(3)">?</td>
+        </tr>
+        <tr>
+          <td id=4 onclick="treasure(4)">?</td>
+          <td id=5 onclick="treasure(5)">?</td>
+          <td id=6 onclick="treasure(6)">?</td>
+          <td id=7 onclick="treasure(7)">?</td>
+        </tr>
+        <tr>
+          <td id=8 onclick="treasure(8)">?</td>
+          <td id=9 onclick="treasure(9)">?</td>
+          <td id=10 onclick="treasure(10)">?</td>
+          <td id=11 onclick="treasure(11)">?</td>
+        </tr>
+        <tr>
+          <td id=12 onclick="treasure(12)">?</td>
+          <td id=13 onclick="treasure(13)">?</td>
+          <td id=14 onclick="treasure(14)">?</td>
+          <td id=15 onclick="treasure(15)">?</td>
+        </tr>
+      </table>
+    </div>
+    <p id="outcome"></p>
+
+    <div id="bottom-section">
+      <!-- <h3 id="turns">Turns remaining:</h3> -->
+      <h3 id="counter">Turns remaining: 10</h3>
+
+      <button type="button" onclick="location.reload()">Restart Game</button>
+
+      <br />
+      <br />
+
+      <footer>
+        &copy <strong>Sarah Proctor</strong> | Jumpstart | <a href="https://www.google.com/" target="_blank">Google</a> |
+        <a href="#top-page">Top of the page</a>
+      </footer>
+      <br />
+    </div>
+
+    <script type="text/javascript" src="treasure-day3.js"></script>
+  </body>
+</html>
