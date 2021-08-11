@@ -1,8 +1,8 @@
-# JumpStart!- Volunteer's Repo 
-# Welcome Aboard
-<hr>
+# JumpStart!- Volunteer Repo 
+# Welcome Aboard: Thank you for joining us on this voyage!
 
-## In This document you will find the steps needed to be taken to get up to speed on being a TA for LEARN academy's JumpStart! 
+
+### In this document you will find the steps needed to be taken to get up to speed on being a volunteer "Teacher's Assistant" for LEARN academy's JumpStart! 
 
 1. First thing you'll need is the [TA Handbook](https://docs.google.com/document/d/1yR8Y3PKb84WS6AJWSodXAHF1xCDWxLJFp9KSoI4xiJU/edit?usp=sharing). This handbook sets out the goals and expectations for the weekend. It is essential that each member of the JumpStart! volunteer team familiarize themselves with the handbook. 
 
@@ -14,11 +14,8 @@
 
 4. The build out for the weekend is available in this repo. Feel free to make PR to this repository if you have any suggestions on material changes. We humbly ask that you also provide teaching guides for any desired updates. 
 
-# Jumpstart
-A weekend class for beginners at LEARN Academy. 20 hours of class covering introduction to HTML, CSS, JavaScript.
-
 # Links
- *Please keep in mind these are for your reference as a teacher's assistant and not answer keys. Please encourage creativity as groups solve these new problems themselves*
+ *Please keep in mind these are for **your reference** as a teacher's assistant and **not answer keys**. Please encourage creativity as groups solve these new problems themselves.*
 
 ### HTML
 - [ Day 1: HTML Code ](./html/day1-code.html)
