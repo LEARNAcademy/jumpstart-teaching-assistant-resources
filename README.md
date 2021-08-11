@@ -1,5 +1,5 @@
 # JumpStart!- Volunteer Repo 
-# Welcome Aboard: Thank you for joining us on this voyage!
+## Welcome Aboard: Thank you for joining us on this voyage!
 
 
 ### In this document you will find the steps needed to be taken to get up to speed on being a volunteer "Teacher's Assistant" for LEARN academy's JumpStart! 
@@ -10,9 +10,15 @@
    
    __Confirm your time slot on slack by replying in thread with your day and time slot!__
 
-3. Depending on your time slot will be the material that will have been covered in JumpStart! up to that point. Please review and keep handy the [Student Notes](https://docs.google.com/document/d/15SDOmmo6bphM7_GfW4iWJdIExJ8FS3zFFfEkGpUWdFk/edit?usp=sharing) -- Especially the parts you will be responsible for assisting. 
+3. Double check you are a member of the revelant "Student-jumpstart" slack channel and respond with a "hello" post to said relevant student channel. 
+    eg. JumpStart August! => #jumpstart-students-august
+    ex: "Hey all, Looking forward to this weekend!"
 
-4. The build out for the weekend is available in this repo. Feel free to make PR to this repository if you have any suggestions on material changes. We humbly ask that you also provide teaching guides for any desired updates. 
+4. Depending on your time slot will be the material that will have been covered in JumpStart! up to that point. Please review and keep handy the [Student Notes](https://docs.google.com/document/d/15SDOmmo6bphM7_GfW4iWJdIExJ8FS3zFFfEkGpUWdFk/edit?usp=sharing) -- **Especially the parts you will be responsible for assisting.**
+
+5. The build out for the weekend is available in this repo. Feel free to make PR to this repository if you have any suggestions on material changes. We humbly ask that you also provide teaching guides for any desired updates. 
+
+6. Please confirm you have gone through all the material laid out in this README and the relevant files of this repository by commenting "completed" on the volunteer slack message that linked this repo. 
 
 # Links
  *Please keep in mind these are for **your reference** as a teacher's assistant and **not answer keys**. Please encourage creativity as groups solve these new problems themselves.*
