@@ -10,9 +10,9 @@
    
    __Confirm your time slot on slack by replying in thread with your day and time slot!__
 
-3. Double check you are a member of the revelant "Student-jumpstart" slack channel and respond with a "hello" post to said relevant student channel. 
-    eg. JumpStart August! => #jumpstart-students-august
-    ex: "Hey all, Looking forward to this weekend!"
+3. Double check you are a member of the revelant "Student-jumpstart" slack channel and respond with a "hello" post to said relevant student channel.  
+    ie. JumpStart! August => #jumpstart-students-august  
+    eg: "Hey all, Looking forward to this weekend!"
 
 4. Depending on your time slot will be the material that will have been covered in JumpStart! up to that point. Please review and keep handy the [Student Notes](https://docs.google.com/document/d/15SDOmmo6bphM7_GfW4iWJdIExJ8FS3zFFfEkGpUWdFk/edit?usp=sharing) -- **Especially the parts you will be responsible for assisting.**
 
