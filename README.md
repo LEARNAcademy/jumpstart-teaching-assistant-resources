@@ -7,7 +7,7 @@
 # Action Items
 
 ### Read through the [TA Handbook](https://docs.google.com/document/d/1yR8Y3PKb84WS6AJWSodXAHF1xCDWxLJFp9KSoI4xiJU/edit?usp=sharing). This handbook sets out the goals and expectations for the weekend. It is essential that each member of the JumpStart! volunteer team be familiar  with the handbook.  
-    Please give this thread a "green check mark" emoji when you have accomplished this. 
+    Please give the slack message that this repo was linked from a "green check mark" emoji when you have accomplished this. 
 
 ### Double check you are a member of the revelant "Student-jumpstart" slack channel and respond with a "hello" post to said relevant student channel.  
     ie. JumpStart! August => #jumpstart-students-august  
