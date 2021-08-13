@@ -16,7 +16,7 @@ When you have completed these action items respond to the post in the Jumpstart 
 - Jumpstart [Student Notes](https://docs.google.com/document/d/15SDOmmo6bphM7_GfW4iWJdIExJ8FS3zFFfEkGpUWdFk/edit?usp=sharing)
 - LEARN Academy's [Code of Conduct](https://docs.google.com/document/d/1c76eZG2y1J09N2l18cADBoPC6fMoFVpkQOqBtBhR1fw/edit)
 
-#### Code Resources
+### Code Resources
 Please keep in mind the code is for *your reference* as a teacher's assistant and *not answer keys*. Encourage creativity as groups solve these new problems.
 
 **Day 1:**  
