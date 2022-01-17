@@ -11,7 +11,7 @@ console.log(treasureLocation, bombLocation)
 //set the initial counter value
 var counter = 10
 
-function treasure(location){
+const treasure = (location) => {
   counter = counter - 1
   document.getElementById("counter").innerHTML = `Counter: ${counter}`
 

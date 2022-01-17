@@ -18,7 +18,7 @@ if(knowCode.toLowerCase() === "yes"){
 
 // --------------Magic 8
 prompt("Ask the magic 8 ball a question.")
-function magic(){
+const magic = () => {
   var randomNum = Math.floor(Math.random() * 5)
   if(randomNum === 0){
       alert("Better not tell you now")
@@ -38,7 +38,7 @@ magic()
 
 // -------------Old Enough
 var myAge = prompt("Please enter your age.")
-function ageChecker(age){
+const ageChecker = (age) => {
   if(age >= 18 && age <= 21){
     alert("You are old enough to vote, but not drink.")
   } else if(age < 18){
