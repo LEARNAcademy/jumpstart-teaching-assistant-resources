@@ -10,7 +10,7 @@ if(treasureLocation === bombLocation){
 //set the initial counter value
 var counter = 10
 
-function treasure(location){
+const treasure = (location) => {
   //changing the counter after each click
   counter = counter - 1
   document.getElementById("counter").innerHTML = `Turns remaining: ${counter}`
